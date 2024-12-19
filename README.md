@@ -20,8 +20,9 @@ I strongly urge the Canara Bank team to investigate this vulnerability promptly 
 
 1. Navigate to Canara Bank’s Net Banking platform: [Canara Bank Net Banking](https://canarabank.com/net-banking).
 2. Use VirusTotal (https://www.virustotal.com/) to scan the website for any potential threats.
-3. VirusTotal identifies the presence of the "CRDF" vulnerability.
-4. Review the scan results to see the flagged issues.
+3. (https://www.virustotal.com/gui/url/c872e7d99dfd503e418126d412a033c8319159e18e82fa0e6edc9e26db1decb3)
+4. VirusTotal identifies the presence of the "CRDF" vulnerability.
+5. Review the scan results to see the flagged issues.
    
 ## Request for Acknowledgment
 
