@@ -1,4 +1,4 @@
-# Bug Report: Security Vulnerability in Canara Bank's Net Banking Platform
+# Security Vulnerability in Canara Bank's Net Banking Platform
 
 ## Overview
 
